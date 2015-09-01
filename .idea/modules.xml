@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/IntroductionsModules/IntroductionsModules.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/IntroductionsModules/IntroductionsModules.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/IntroductionsModules/app/app.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/IntroductionsModules/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/IntroductionsModules/introductions/introductions.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/IntroductionsModules/introductions/introductions.iml" />
+    </modules>
+  </component>
+</project>
